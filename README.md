@@ -40,7 +40,8 @@ Enjoy smart replies, seamless AI chat, and easy deployment!
 
 ## SECOND TYPE ✨
 
-```git clone https://github.com/ALLAY-XD-20/Discord-chatting-bot```
-``` cd Discord-chatting-bot```
-``` pip install -r requirments.txt```
-``` python main.py```
+```bash
+git clone https://github.com/ALLAY-XD-20/Discord-chatting-bot```
+cd Discord-chatting-bot
+pip install -r requirments.txt
+python main.py
