@@ -1,0 +1,25 @@
+bot:
+  token: ""
+  prefix: "-"
+  status: "TOTAL GUILDS || PERIX"
+  activities:
+    - type: "playing"
+      name: "love 🥰"
+    - type: "watching"
+      name: "heart brake 💔"
+    - type: "listening"
+      name: "be active"
+  support_server: "https://discord.gg/YOUR_INVITE_CODE"
+  auto_react_emojis: ["💖", "🌸", "🥰", "💕", "✨"]
+  automod:
+    enabled: true
+    spam_threshold: 3  # Number of identical messages to trigger spam detection
+    timeout_duration: 300  # 5 minutes in seconds
+    whitelist_roles: ["Admin", "Moderator"]  # Roles exempt from automod
+
+database:
+  mongodb_uri: "mongodb+srv://Chikuv2:chikuv2@cluster0.c4vkgdl.mongodb.net/?retryWrites=true&w=majority"
+  db_name: "frandlay_bot"
+
+gemini:
+  api_key: "AIzaSyBGn44o837hrSipoEefdd-4ofT4Hbe7YBE"
