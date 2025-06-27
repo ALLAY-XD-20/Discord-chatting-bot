@@ -36,12 +36,13 @@ Enjoy smart replies, seamless AI chat, and easy deployment!
 ## 🛠️ Installation
 
 ### 📁 Clone the Project
-```git clone https://replit.com/@dragonsole999/Python?s=app```
+```bash
+git clone https://replit.com/@dragonsole999/Python?s=app```
 
 ## SECOND TYPE ✨
 
 ```bash
-git clone https://github.com/ALLAY-XD-20/Discord-chatting-bot```
+git clone https://github.com/ALLAY-XD-20/Discord-chatting-bot
 cd Discord-chatting-bot
 pip install -r requirments.txt
 python main.py
