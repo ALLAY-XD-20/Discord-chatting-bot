@@ -1,0 +1,5 @@
+discord.py
+PyYAML
+psutil
+motor
+google-generativeai
